@@ -26,7 +26,7 @@ def D_ref(A_ref, D_int):
 
 
 def A_ft(A_ref):
-    A_ft = 0.56 * A_ref
+    A_ft = 0.56 * A_ref #no slide professor fala 0.7
     return A_ft
 
 
