@@ -34,7 +34,7 @@ mComb_IDLE = 0.0091  # kg/s
 
 R_ar = 143.5  # J/kg*K
 theta = 73000000
-D_int = 0.01717
+D_int = 0.01717 #Dint informado pelo professor em sala é 0,05 m
 phi_zp = 1.05
 phi_zs = 8
 phi_estq = 0.06818
